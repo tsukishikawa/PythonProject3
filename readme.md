@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação de gerenciamento de clientes usando `Tkinter` para a interface gráfica e `sqlite3` para o banco de dados. A aplicação permite visualizar, buscar, inserir, atualizar e excluir informações de clientes armazenadas em um banco de dados SQLite.
 
+## Imagem do Resultado
+
+![Tabela de banco de dados](result.png)
+
 ## Requisitos
 
 - Python
